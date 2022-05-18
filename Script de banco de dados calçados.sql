@@ -1,3 +1,5 @@
+CREATE SCHEMA calcados; 
+
 CREATE TABLE produtos (
   Id int(11) NOT NULL AUTO_INCREMENT,
   Tamanho int(100) NOT NULL,
